@@ -1,5 +1,5 @@
 # Welcome to The QuickUtils Project
-**by PowerAtom Fund.**  
-(C)2024, The QuickUtils Authors  
-(C)2024, PowerAtom Fund.
+**by CoraTech Workspace**  
+(C)2024-2025, The QuickUtils Authors  
+(C)2024-2025, CoraTech WS.
 
